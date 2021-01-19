@@ -1,4 +1,4 @@
-## TecBlog - Your Blog of Technology
+## QUIZ DA JORNADA
 
 Hey there! This project was built to develop Python and Django Framework skills!
 
